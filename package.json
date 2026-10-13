@@ -1,0 +1,7 @@
+{
+  "name": "dsh-multikey",
+  "version": "0.2.0-rc.2.1",
+  "private": true,
+  "description": "Distribution fork of @deepseek-ai/dsh-client-ui-settings-models, dsh-llm-deepseek-api-key and dsh-llm-pi-ai adding named per-key API-key cards (apiKeyProfiles)",
+  "license": "MIT"
+}
